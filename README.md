@@ -1,0 +1,6 @@
+# PUTTING-IT-ALL-TOGETHER
+
+# WEB DEVELOPMENT FUNDAMENTALS
+
+## Usage:
+* Creation of variables.
